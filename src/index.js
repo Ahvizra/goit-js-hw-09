@@ -1,3 +1,3 @@
 import './sass/main.scss';
-import "./makeGallery"
-import './app'
+import './js/makeGallery'
+import './js/app'
